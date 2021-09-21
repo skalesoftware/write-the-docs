@@ -7,7 +7,7 @@ baseurl: "/write-the-docs"
 
 # Markdown parser and theme settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 
 plugins:
   - jekyll-relative-links
